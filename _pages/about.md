@@ -14,6 +14,9 @@ Title
 ======
 Text!
 
-Another title!
+Recent Posts
 ------
-Text!
+{% include base_path %}
+{% for post in site.posts limit:2%}
+  {% include archive-single.html %}
+{% endfor %}
