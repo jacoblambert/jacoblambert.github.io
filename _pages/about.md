@@ -17,6 +17,6 @@ Text!
 Recent Posts
 ------
 {% include base_path %}
-{% for post in site.posts limit:2%}
+{% for post in site.posts limit:2 %}
   {% include archive-single.html %}
 {% endfor %}
