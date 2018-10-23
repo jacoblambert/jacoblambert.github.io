@@ -10,5 +10,6 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 {% include base_path %}
 
 {% for post in site.publications reversed %}
+  <hr>
   {% include archive-single.html %}
 {% endfor %}
