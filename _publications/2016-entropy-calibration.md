@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Entropy-Based Sim(3) Calibration of 2D Lidars to Egomotion Sensors"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+permalink: /publication/2016-lidar-camera-calibration
+excerpt: 'Lidar to Egomotion Sensor Calibration'
+date: 2016-09-19
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'http://jacoblambert.github.io/files/2016egomotion.pdf'
+citation: '<b>Entropy-Based Sim(3) Calibration of 2D Lidars to Egomotion Sensors</b> J. Lambert, L. Clement, M. Giamou, and J. Kelly
+<i>Proceedings of the IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI’16)</i>, Baden-Baden, Germany, Sep. 19–21 2016, pp. 455-461.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Using entropy to calibration lidars with cameras, or any other sensors capable of providing egomotion. Won the MFI 2016 Best Student Paper Award!
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper preprint here](http://jacoblambert.github.io/files/2016egomotion.pdf) | Bibtex

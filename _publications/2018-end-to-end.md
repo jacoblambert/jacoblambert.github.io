@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "End-to-End Autonomous Mobile Robot Navigation with Model-Based System Support"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2018-end-to-end
+excerpt: 'Model assisted end-to-end navigation'
+date: 2018-08-01
+venue: 'Journal of Robotics and Mechatronics (JRM) Vol.30 No.4'
+paperurl: 'http://jacoblambert.github.io/files/2018end.pdf'
+citation: '<b>End-to-End Autonomous Mobile Robot Navigation with Model-Based System Support</b>. A. Carballo, S. Seiya, J. Lambert, H. Darweesh,
+P. Narksri, Y. Morales, N. Akai, E. Takeuchi, and K. Takeda, <i>Journal of Robotics and Mechatronics (JRM), vol. 30, no. 4</i> Aug. 2018, pp.563-583'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+End-to-end navigation!
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+You can download the paper for free on the [Fuji Press Website](https://www.fujipress.jp/jrm/rb/) | [Download](http://jacoblambert.github.io/files/2018end.pdf) | Bibtex

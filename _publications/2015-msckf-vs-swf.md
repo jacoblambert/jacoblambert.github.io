@@ -5,9 +5,10 @@ permalink: /publication/2015-msckf-vs-swf
 excerpt: 'Comparison of the MSCKF and the SWF.'
 date: 2015-06-03
 venue: '2015 12th IEEE Conference on Computer and Robot Vision (CRV), Halifax, Canada.'
-paperurl: ''
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://jacoblambert.github.io/files/2015battle.pdf'
+citation: '<b>The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter</b>. L. Clement, V. Peretroukhin, J. Lambert, and J. Kelly
+<i>Proceedings of the 12th Conference on Computer and Robot Vision (CRV’15)</i>, Halifax, Nova Scotia, Canada, Jun. 3–5 2015, pp. 23-30.'
 ---
-Description! [Download paper here](http://jacoblambert.github.io/files/msckf-vs-swf.pdf)
+Systematic comparison of two popular state estimation filters, applied here to visual-inertial odometry.
 
-Bibtex!
+[Download the preprint here](http://jacoblambert.github.io/files/2015battle.pdf) | Bibtex

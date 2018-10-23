@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Tsukuba Challenge 2017 Dynamic Object Tracks Dataset for Pedestrian Behavior Analysis"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2018-tsukuba-dataset
+excerpt: 'A pedestrian behavior dataset collected at the 2017 Tsukuba Challenge.'
+date: 2018-08-01
+venue: 'Journal of Robotics and Mechatronics (JRM) Vol.30 No.4'
+paperurl: 'http://jacoblambert.github.io/files/2018tsukuba.pdf'
+citation: '<b>Tsukuba challenge 2017 dynamic object tracks dataset for pedestrian behavior analysis</b>. J. Lambert, L. Liang, Y. Morales, N. Akai, A. Carballo, E. Takeuchi,
+P. Narksri, S. Seiya, and K. Takeda, <i>Journal of Robotics and Mechatronics (JRM), vol. 30, no. 4</i> Aug. 2018, pp 598-612.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Tsukuba dataset!
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+You can download the paper for free on the [Fuji Press Website](https://www.fujipress.jp/jrm/rb/) | [Download](http://jacoblambert.github.io/files/2018tsukuba.pdf) | Bibtex
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+

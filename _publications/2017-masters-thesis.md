@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Automatic and Featureless Sim(3) Calibration of Planar Lidars to Egomotion Sensors"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2017-mastersthesis
+excerpt: 'Master's thesis summarizing work on Lidar-Camera calibration and other sensor combinations.'
+date: 2017
+venue: 'University of Toronto, Master's Thesis
+citation: 'Lambert, Jacob (2017). &quot;Automatic and Featureless Sim (3) Calibration of Planar Lidars to Egomotion Sensors&quot; <i>Master's Thesis</i>, University of Toronto.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Please check the University of Toronto online library or send me an email for a copy of this thesis.
