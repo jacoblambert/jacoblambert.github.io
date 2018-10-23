@@ -18,13 +18,13 @@ I'm a PhD candidate in Nagoya University currently focused on AI-based object de
   {{ post.citation }}
 {% endfor %}
 
-<h3>Recent Posts</h3>
-{% include base_path %}
-{% for post in site.posts limit:2 %}
+<h3>Recent Projects</h3>
+{% for post in site.projects limit:2 %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h3>Recent Projects</h3>
-{% for post in site.publications limit:2 %}
+<h3>Recent Posts</h3>
+{% include base_path %}
+{% for post in site.posts limit:2 %}
   {% include archive-single.html %}
 {% endfor %}
