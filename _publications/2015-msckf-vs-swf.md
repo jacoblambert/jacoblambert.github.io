@@ -2,7 +2,6 @@
 title: "The Battle for Filter Supremacy: a Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter"
 collection: publications
 permalink: /publication/2015-msckf-vs-swf
-excerpt: 'Comparison of the MSCKF and the SWF.'
 date: 2015-06-03
 venue: '2015 12th IEEE Conference on Computer and Robot Vision (CRV), Halifax, Canada.'
 paperurl: 'http://jacoblambert.github.io/files/2015battle.pdf'

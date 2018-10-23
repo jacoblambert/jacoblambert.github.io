@@ -2,7 +2,6 @@
 title: "Tsukuba Challenge 2017 Dynamic Object Tracks Dataset for Pedestrian Behavior Analysis"
 collection: publications
 permalink: /publication/2018-tsukuba-dataset
-excerpt: 'A pedestrian behavior dataset collected at the 2017 Tsukuba Challenge.'
 date: 2018-08-01
 venue: 'Journal of Robotics and Mechatronics (JRM) Vol.30 No.4'
 paperurl: 'http://jacoblambert.github.io/files/2018tsukuba.pdf'

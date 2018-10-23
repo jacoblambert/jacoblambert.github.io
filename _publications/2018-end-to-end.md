@@ -2,7 +2,6 @@
 title: "End-to-End Autonomous Mobile Robot Navigation with Model-Based System Support"
 collection: publications
 permalink: /publication/2018-end-to-end
-excerpt: 'Model assisted end-to-end navigation'
 date: 2018-08-01
 venue: 'Journal of Robotics and Mechatronics (JRM) Vol.30 No.4'
 paperurl: 'http://jacoblambert.github.io/files/2018end.pdf'
