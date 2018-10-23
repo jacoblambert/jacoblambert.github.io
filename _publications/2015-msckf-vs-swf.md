@@ -10,4 +10,4 @@ citation: '<b>The Battle for Filter Supremacy: A Comparative Study of the Multi-
 ---
 Systematic comparison of two popular state estimation filters, applied here to visual-inertial odometry.
 
-[Download the preprint here](http://jacoblambert.github.io/files/2015battle.pdf) | Bibtex
+[Download the preprint here](http://jacoblambert.github.io/files/2015battle.pdf) &#124; Bibtex

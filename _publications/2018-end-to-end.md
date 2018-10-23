@@ -10,4 +10,4 @@ P. Narksri, Y. Morales, N. Akai, E. Takeuchi, and K. Takeda, <i>Journal of Robot
 ---
 End-to-end navigation!
 
-You can download the paper for free on the [Fuji Press Website](https://www.fujipress.jp/jrm/rb/) | [Download](http://jacoblambert.github.io/files/2018end.pdf) | Bibtex
+You can download the paper for free on the [Fuji Press Website](https://www.fujipress.jp/jrm/rb/) &#124; [Download](http://jacoblambert.github.io/files/2018end.pdf) &#124; Bibtex

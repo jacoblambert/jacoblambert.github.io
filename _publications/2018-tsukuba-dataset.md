@@ -10,6 +10,6 @@ P. Narksri, S. Seiya, and K. Takeda, <i>Journal of Robotics and Mechatronics (JR
 ---
 Tsukuba dataset!
 
-You can download the paper for free on the [Fuji Press Website](https://www.fujipress.jp/jrm/rb/) | [Download](http://jacoblambert.github.io/files/2018tsukuba.pdf) | Bibtex
+You can download the paper for free on the [Fuji Press Website](https://www.fujipress.jp/jrm/rb/) &#124; [Download](http://jacoblambert.github.io/files/2018tsukuba.pdf) &#124; Bibtex
 
 
