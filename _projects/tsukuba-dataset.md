@@ -12,18 +12,18 @@ The MAD team presents the Tsukuba Challenge Dynamic Object Tracks Dataset.
 
 We collected 15 rosbags runs of the 2017 <a href="http://www.tsukubachallenge.jp/">Tsukuba Challenge</a> each of which covers the a distance of over 2 kilometers. The following is a top view of the course, where our trajectory is in red and approximate traversable area is in green: <img class="alignnone size-full wp-image-42" src="http://jacoblambert.github.io/images/tsukuba/tsukubaearthgood2.png" alt="tsukubaearthgood2.png" width="1637" height="867" />
 
-<img class="alignleft size-medium wp-image-44" src="hhttp://jacoblambert.github.io/images/tsukuba/minbotsensors.png?w=191" alt="minbotsensors" width="191" height="300" />
+<img class="alignnone size-full" src="http://jacoblambert.github.io/images/tsukuba/minbotsensors.png" alt="minbotsensors" width="191" height="300" />
 We use the MinBot to collect this data, which you can see below. It is a manually operated data collection platform, equipped with many sensors: Velodyne HDL-32 3D lidar, Hokuyo UTM-30LX 2D lidar, PointGrey Flea3 monocular camera, Xsens MTi-300 intertial motion unit (IMU) as well as wheel encoders.
 
 Though we logged information for all sensors, note that for this research we use the Velodyne HDL-32 3D lidar alongside wheel odometry for localization, and only 3D lidar for dynamic object detection and tracking.
 
 We use <a href="https://github.com/CPFL/Autoware">Autoware</a>'s NDT Mapping and Localization tool to create a 3D Lidar Map of the environment which we use, alongside odometry, to localize. Then, using multiple runs of the environment, we use <a href="https://octomap.github.io/">Octomap</a> to create a 3D occupancy grid of the environment's static background. The final map of the environment can be seen below.
 
-<img class="alignnone size-full wp-image-45" src="http://jacoblambert.github.io/images/tsukuba/octomap.png" alt="octomap" width="1211" height="705" />
+<img class="alignnone size-full" src="http://jacoblambert.github.io/images/tsukuba/octomap.png" alt="octomap" width="1211" height="705" />
 
 With localization capabilities and a static background map, we can now perform the dynamic object detection and tracking from the Lidar data:
 
-<img class="alignnone size-full wp-image-47" src="http://jacoblambert.github.io/images/tsukuba/block_diagram.png" alt="pflow" width="3529" height="5257" />
+<img class="alignnone size-full" src="http://jacoblambert.github.io/images/tsukuba/block_diagram.png" alt="pflow" width="3529" height="5257" />
 
 Points remaining after ground and background removal are then clustered using PCL's <a href="http://www.pointclouds.org/documentation/tutorials/cluster_extraction.php">Euclidean Clustering</a>. This was often insufficient as pedestrians naturally move in clusters so several people are often grouped as one. To solve this issue we performed multiple maxima (heads) iterative sub-clustering. This is an important step as illustrated below. A group of 6 people block the road. Due to the point of view of the 3D Lidar, three people on the right are grouped into one cluster, one of which is heavily occluded. After sub-clustering, we have two clear people, with the third being rejected since cluster size is not big enough to truly determine whether this is a person.
 
