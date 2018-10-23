@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db018f26-5b05-4296-ab85-8265c2799dd0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-msckf-vs-swf.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-msckf-vs-swf.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2018-end-to-end.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2018-end-to-end.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2018-tsukuba-dataset.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2018-tsukuba-dataset.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/archive-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,14 +39,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="144" />
+          <entry key="html" value="146" />
           <entry key="md" value="2106" />
           <entry key="yml" value="394" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="144" />
+          <entry key="HTML" value="146" />
           <entry key="Markdown" value="2106" />
           <entry key="YAML" value="394" />
         </counts>
@@ -93,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/archive-single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+            <state relative-caret-position="600">
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -135,7 +132,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_pages/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -184,12 +181,12 @@
         <option value="$PROJECT_DIR$/_pages/publications.md" />
         <option value="$PROJECT_DIR$/_publications/2016-entropy-calibration.md" />
         <option value="$PROJECT_DIR$/_layouts/single.html" />
-        <option value="$PROJECT_DIR$/_includes/archive-single.html" />
         <option value="$PROJECT_DIR$/_publications/2018-tsukuba-dataset.md" />
         <option value="$PROJECT_DIR$/_publications/2015-msckf-vs-swf.md" />
         <option value="$PROJECT_DIR$/_publications/2018-end-to-end.md" />
         <option value="$PROJECT_DIR$/_publications/2017-masters-thesis.md" />
         <option value="$PROJECT_DIR$/_pages/about.md" />
+        <option value="$PROJECT_DIR$/_includes/archive-single.html" />
       </list>
     </option>
   </component>
@@ -634,13 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/archive-single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -655,6 +645,13 @@
             <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/archive-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
         </state>
       </provider>
     </entry>
