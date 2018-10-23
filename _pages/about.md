@@ -18,7 +18,7 @@ Recent Publications
 ------
 {% include base_path %}
 {% for post in site.publications limit:2 %}
-  {% include archive-single.html %}
+  {{ post.citation }}
 {% endfor %}
 
 Recent Posts
