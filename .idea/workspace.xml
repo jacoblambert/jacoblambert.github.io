@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db018f26-5b05-4296-ab85-8265c2799dd0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/archive-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,8 +102,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+            <state relative-caret-position="301">
+              <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -675,8 +674,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        <state relative-caret-position="301">
+          <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
         </state>
       </provider>
     </entry>
