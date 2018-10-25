@@ -18,12 +18,12 @@ I'm a PhD candidate in Nagoya University currently focused on AI-based object de
   {{ post.citation }}
 {% endfor %}
 
-<a href=https://jacoblambert.github.io/projects-archive/><h2><div>Recent Projects</h2></div></a>
+<a href=https://jacoblambert.github.io/projects-archive/>Recent Projects</a>
 {% for post in site.projects limit:2 %}
   {% include archive-single.html %}
 {% endfor %}
 
-<a href=https://jacoblambert.github.io/blog-archive/><h2><div>Recent Blog Posts</h2></div></a>
+<a href=https://jacoblambert.github.io/blog-archive/>Recent Blog Posts</a>
 {% include base_path %}
 {% for post in site.posts limit:2 %}
   {% include archive-single.html %}
