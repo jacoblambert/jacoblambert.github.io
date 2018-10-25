@@ -12,7 +12,7 @@ The MAD team presents the Tsukuba Challenge Dynamic Object Tracks Dataset.
 
 We collected 15 rosbags runs of the 2017 <a href="http://www.tsukubachallenge.jp/">Tsukuba Challenge</a> each of which covers the a distance of over 2 kilometers. The following is a top view of the course, where our trajectory is in red and approximate traversable area is in green: <img class="alignnone size-full wp-image-42" src="http://jacoblambert.github.io/images/tsukuba/tsukubaearthgood2.png" alt="tsukubaearthgood2.png" width="1637" height="867" />
 
-<img class="alignnone size-full" src="http://jacoblambert.github.io/images/tsukuba/minbotsensors.png" alt="minbotsensors" width="191" height="300" />
+<img src="http://jacoblambert.github.io/images/tsukuba/minbotsensors.png" alt="minbotsensors" align="right" width="191" height="300" />
 We use the MinBot to collect this data, which you can see below. It is a manually operated data collection platform, equipped with many sensors: Velodyne HDL-32 3D lidar, Hokuyo UTM-30LX 2D lidar, PointGrey Flea3 monocular camera, Xsens MTi-300 intertial motion unit (IMU) as well as wheel encoders.
 
 Though we logged information for all sensors, note that for this research we use the Velodyne HDL-32 3D lidar alongside wheel odometry for localization, and only 3D lidar for dynamic object detection and tracking.
