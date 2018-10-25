@@ -10,7 +10,7 @@ redirect_from:
 
 <img class="alignnone size-full" src="http://jacoblambert.github.io/images/highashell.jpg" alt="me, high as hell"/>
 
-I'm a PhD candidate in Nagoya University currently focused on AI-based object detection and tracking for LiDAR sensors on autonomous cars. I'm also currently a C++/Python/ROS developer for [Tier IV](tier4.jp), improving the sensing capabilities of their open-source autonomous driving platform, [Autoware](https://github.com/CPFL/Autoware).
+I'm a PhD candidate in Nagoya University currently focused on AI-based object detection and tracking for LiDAR sensors on autonomous cars. I'm also currently a C++/Python/ROS developer for [Tier IV](https://www.tier4.jp/), improving the sensing capabilities of their open-source autonomous driving platform, [Autoware](https://github.com/CPFL/Autoware). I have a ton of hobbies too, just check out my blog and projects!
 
 <h2>Recent Publications</h2>
 {% include base_path %}
